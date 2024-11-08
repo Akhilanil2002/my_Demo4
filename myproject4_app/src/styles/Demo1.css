@@ -1,0 +1,25 @@
+.counter-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .increment-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+  }
+  
+  .increment-button:hover {
+    background-color: #45a049;
+  }
+  
+  .counter-value {
+    font-size: 20px;
+    margin-top: 10px;
+  }
+  
